@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome to My Crypto Portfolio",
+  "portfolio_value": "Total Portfolio Value",
+  "holdings": "Holdings",
+  "change": "Change",
+  "total_value": "Total Value",
+  "language": "Language",
+  "transaction_history": "Transaction History",
+  "buy": "BUY",
+  "sell": "SELL",
+  "qty": "Qty",
+  "amount": "Amount",
+  "add_transaction": "Add Transaction"
+}

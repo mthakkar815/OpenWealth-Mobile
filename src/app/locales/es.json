@@ -1,0 +1,14 @@
+{
+  "welcome": "Bienvenido a Mi Portafolio de Criptomonedas",
+  "portfolio_value": "Valor Total del Portafolio",
+  "holdings": "Posiciones",
+  "change": "Cambio",
+  "total_value": "Valor Total",
+  "language": "Idioma",
+  "transaction_history": "Historial de Transacciones",
+  "buy": "COMPRAR",
+  "sell": "VENDER",
+  "qty": "Cantidad",
+  "amount": "Monto",
+  "add_transaction": "Agregar Transacción"
+}

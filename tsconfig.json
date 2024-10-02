@@ -1,0 +1,44 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": false,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "noEmitOnError": true,
+    "jsx": "react-jsx",
+    "baseUrl": "./src",
+    "paths": {
+      "@app/*": ["app/*"],
+      "@components/*": ["app/components/*"],
+      "@utils/*": ["app/utils/*"],
+      "@locales/*": ["app/locales/*"],
+      "@models/*": ["app/models/*"],
+      "@api/*": ["app/api/*"],
+      "@store/*": ["app/store/*"],
+      "@styles/*": ["app/styles/*"],
+      "@constants/*": ["app/constants/*"]
+    },
+  },
+  "include": [
+    "src",
+    "env.d.ts"
+, "global.d.ts"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

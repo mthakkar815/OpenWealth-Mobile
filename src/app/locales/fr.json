@@ -1,0 +1,14 @@
+{
+  "welcome": "Bienvenue dans Mon Portefeuille Crypto",
+  "portfolio_value": "Valeur Totale du Portefeuille",
+  "holdings": "Positions",
+  "change": "Changement",
+  "total_value": "Valeur Totale",
+  "language": "Langue",
+  "transaction_history": "Historique des Transactions",
+  "buy": "ACHETER",
+  "sell": "VENDRE",
+  "qty": "Quantité",
+  "amount": "Montant",
+  "add_transaction": "Ajouter une Transaction"
+}
